@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Shivang-singh12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Shivang-singh
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning JavaScript and React
+- 💞️ I’m looking to collaborate on Front End Projects
+- 📫 How to reach me Shivangsingh1901@gmail.com
 
 <!---
 Shivang-singh12/Shivang-singh12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
